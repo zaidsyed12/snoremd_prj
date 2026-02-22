@@ -1,16 +1,3 @@
-"""
-Automated Pipeline Scheduler - SnoreMD Data Pipeline
-
-    #  runs every 5 minutes (good for live demos)
-    python scheduler.py
-
-    # runs every 60 minutes
-    python scheduler.py --interval 60
-
-    # Run once 
-    python scheduler.py --once
-"""
-
 from __future__ import annotations
 
 import argparse
