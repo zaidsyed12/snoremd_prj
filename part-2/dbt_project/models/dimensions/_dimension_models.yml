@@ -1,0 +1,61 @@
+version: 2
+
+models:
+  - name: dim_patients
+    description: "Patient dimension. PHI fields (email, phone) are SHA-256 hashed."
+    columns:
+      - name: patient_sk
+        description: "Surrogate key (MD5 hash of patient_id)."
+        tests:
+          - not_null
+          - unique
+      - name: patient_id
+        tests:
+          - not_null
+          - unique
+      - name: clinic_sk
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_clinics')
+              field: clinic_sk
+      - name: date_of_birth
+        tests:
+          - not_null
+      - name: gender
+        tests:
+          - accepted_values:
+              values: ['M', 'F', 'OTHER']
+
+  - name: dim_clinics
+    description: "Clinic reference dimension."
+    columns:
+      - name: clinic_sk
+        tests:
+          - not_null
+          - unique
+      - name: clinic_id
+        tests:
+          - not_null
+          - unique
+      - name: clinic_name
+        tests:
+          - not_null
+
+  - name: dim_clinicians
+    description: "Clinician dimension joined to their home clinic."
+    columns:
+      - name: clinician_sk
+        tests:
+          - not_null
+          - unique
+      - name: clinician_id
+        tests:
+          - not_null
+          - unique
+      - name: clinic_sk
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_clinics')
+              field: clinic_sk

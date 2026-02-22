@@ -1,0 +1,64 @@
+name: dbt CI — Data Quality Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  dbt-test:
+    name: Run dbt tests against Snowflake
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r part-2/requirements.txt
+
+      - name: Write dbt profiles.yml
+        run: |
+          mkdir -p ~/.dbt
+          cat > ~/.dbt/profiles.yml << EOF
+          snoremd:
+            target: dev
+            outputs:
+              dev:
+                type: snowflake
+                account: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+                user: ${{ secrets.SNOWFLAKE_USER }}
+                password: ${{ secrets.SNOWFLAKE_PASSWORD }}
+                role: ACCOUNTADMIN
+                database: SNOREMD_DB
+                warehouse: SNOREMD_WH
+                schema: RAW
+                threads: 4
+          EOF
+
+      - name: dbt deps
+        working-directory: part-2/dbt_project
+        run: dbt deps
+
+      - name: dbt run
+        working-directory: part-2/dbt_project
+        run: dbt run
+
+      - name: dbt test
+        working-directory: part-2/dbt_project
+        run: dbt test
+
+      - name: Upload dbt artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dbt-artifacts
+          path: |
+            part-2/dbt_project/target/manifest.json
+            part-2/dbt_project/target/run_results.json

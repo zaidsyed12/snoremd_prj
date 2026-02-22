@@ -1,0 +1,28 @@
+# Credentials & secrets
+**/.env
+**/profiles.yml
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/venv/
+**/env/
+**/*.egg-info/
+
+# dbt build artifacts
+**/dbt_project/target/
+**/dbt_project/dbt_packages/
+**/dbt_project/.dbt/
+
+# Logs
+**/*.log
+**/logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+clinician_id,first_name,last_name,specialty,clinic_id
+1d11bb41-12f0-4159-93c8-70986af81c5d,Samantha,Hill,Sleep Medicine,CLN001
+ad9781ba-8dfa-4e41-b804-6e1469f63cdc,James,Elliott,Sleep Medicine,CLN001
+b43e65cf-63e7-48af-95f3-ce8b3b64c06a,Jennifer,Kirby,Otolaryngology,CLN001
+1d34cba7-214a-4883-adfd-962260eff927,John,Whitney,Respirology,CLN001
+8a329104-3b70-4ce7-94cf-3df55bd7cd33,Linda,Taylor,Respirology,CLN002
+7e8e5eeb-c7e1-4043-9a18-85d486d75b72,Wanda,Martin,Respirology,CLN002
+4a955f2d-90da-4aaa-bc5f-09060a33ebd3,Jessica,Ortiz,Sleep Medicine,CLN002
+e77f34ea-5cd8-4685-9edb-1d6a7661b106,Zachary,Garrett,Sleep Medicine,CLN002
+53fb40ab-916a-402c-8f50-9d2e5023f92d,Francisco,Price,General Practice,CLN003
+073975de-3dec-4bce-a451-0b03c8c44dff,William,Hughes,Sleep Medicine,CLN003
+568ca045-fae9-41eb-af99-d3ee0370a369,Laurie,Rodriguez,Sleep Medicine,CLN003
+e9987f54-915f-4efd-9963-08efa6162e4e,Jonathan,Bennett,Sleep Medicine,CLN003
+73286582-7f7b-42e1-8f5b-9a9ec01487f8,Katherine,Mathis,Respirology,CLN004
+84724d8c-5148-4fc4-800b-ffae6d184f7a,Nicole,Peters,Respirology,CLN004
+95253b39-4dfa-4d05-93f9-c1d60652b1c9,Edward,Graves,Sleep Medicine,CLN004
+45bf3679-cb3d-43bc-983e-ff8befcd036f,Jennifer,Bradford,Respirology,CLN004
+03251487-c05d-427b-a29f-bd74302b994b,Abigail,Banks,General Practice,CLN005
+e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41,Malik,Morales,Respirology,CLN005
+9bb23af2-20f1-4449-ade8-d67076c76d89,Debra,Huang,General Practice,CLN005
+8e5bb27f-61d8-4f00-8241-92c3326b7355,Andrea,Brown,Otolaryngology,CLN005

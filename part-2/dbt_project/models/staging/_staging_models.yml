@@ -1,0 +1,93 @@
+version: 2
+
+models:
+  - name: stg_patients
+    description: "Cleaned and typed patients from RAW.PATIENTS (CRM CSV export)."
+    columns:
+      - name: patient_id
+        description: "Natural key (UUID) from source CRM."
+        tests:
+          - not_null
+          - unique
+      - name: clinic_id
+        tests:
+          - not_null
+      - name: date_of_birth
+        tests:
+          - not_null
+      - name: gender
+        tests:
+          - accepted_values:
+              values: ['M', 'F', 'OTHER']
+
+  - name: stg_appointments
+    description: "Cleaned appointments from RAW.APPOINTMENTS (scheduling API JSON)."
+    columns:
+      - name: appointment_id
+        tests:
+          - not_null
+          - unique
+      - name: patient_id
+        tests:
+          - not_null
+      - name: clinic_id
+        tests:
+          - not_null
+      - name: appointment_date
+        tests:
+          - not_null
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['scheduled', 'completed', 'cancelled', 'no_show']
+
+  - name: stg_sleep_studies
+    description: "Cleaned sleep studies from RAW.SLEEP_STUDIES (Azure Blob CSV)."
+    columns:
+      - name: study_id
+        tests:
+          - not_null
+          - unique
+      - name: patient_id
+        tests:
+          - not_null
+      - name: study_type
+        tests:
+          - accepted_values:
+              values: ['polysomnography', 'home_sleep_test']
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['pending', 'completed', 'failed']
+
+  - name: stg_clinician_notes
+    description: "Cleaned clinician notes from RAW.CLINICIAN_NOTES (S3 JSON)."
+    columns:
+      - name: note_id
+        tests:
+          - not_null
+          - unique
+      - name: patient_id
+        tests:
+          - not_null
+      - name: clinician_id
+        tests:
+          - not_null
+
+  - name: stg_billing
+    description: "Cleaned billing data from RAW.BILLING (monthly Excel)."
+    columns:
+      - name: billing_id
+        tests:
+          - not_null
+          - unique
+      - name: patient_id
+        tests:
+          - not_null
+      - name: amount
+        tests:
+          - not_null
+      - name: billing_status
+        tests:
+          - accepted_values:
+              values: ['pending', 'approved', 'denied', 'paid']

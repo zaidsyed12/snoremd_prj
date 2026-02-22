@@ -1,0 +1,1602 @@
+[
+  {
+    "note_id": "bd2e6cff-b7f7-4a13-a3ae-0444107c21d7",
+    "patient_id": "20598abb-62d8-4ce9-8e98-8072aa52fa03",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "84d8f619-f67b-4f0d-9fb5-8bea48ee7ab0",
+    "note_date": "2024-04-05T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 12 weeks.",
+    "created_at": "2024-04-05T01:00:00"
+  },
+  {
+    "note_id": "05e09223-0893-457e-a5b7-0abe52845b24",
+    "patient_id": "499b58d3-973a-4ed4-ba92-999a2559d392",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "70c2215d-942c-4bb5-88b0-69e593ec3e9e",
+    "note_date": "2024-06-28T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-06-28T01:00:00"
+  },
+  {
+    "note_id": "307ae6d2-9817-420c-bcec-93504e64eaff",
+    "patient_id": "69b864d2-53f5-4f3a-94fe-4e997d6dc615",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "563e5973-94fd-4723-8809-37411ed6a3c3",
+    "note_date": "2024-01-15T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 6 weeks.",
+    "created_at": "2024-01-15T01:00:00"
+  },
+  {
+    "note_id": "c54c55d6-74f1-4310-a16b-4ffe4505c3b2",
+    "patient_id": "d51dd10e-bd86-41fc-9d5a-b208e44733cf",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "f153eb5d-8657-4719-8569-cd5636d1da0b",
+    "note_date": "2023-06-29T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 12 weeks.",
+    "created_at": "2023-06-29T01:00:00"
+  },
+  {
+    "note_id": "4733ab0d-4e6b-4d94-9404-8ec4498210ed",
+    "patient_id": "24e4a4f5-0274-47c7-8e41-d93dc1766315",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "b475b25d-8cff-4c46-9302-93a5ec315899",
+    "note_date": "2024-03-24T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with loud snoring. Recommend referral to ENT.",
+    "created_at": "2024-03-24T01:00:00"
+  },
+  {
+    "note_id": "7e0df59e-5aa5-46a5-b54e-273e4548061f",
+    "patient_id": "d8ac604a-3e43-4f2a-8618-7ceeb4beebed",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "96e6b337-442a-4f13-858a-aca1e6b83ec5",
+    "note_date": "2023-11-25T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to continue current therapy.",
+    "created_at": "2023-11-25T01:00:00"
+  },
+  {
+    "note_id": "c1d3cb06-c74c-4448-8153-e0dce059703d",
+    "patient_id": "62a1ce20-8f15-4a71-bc3c-4f7335e9c782",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "e3f0862c-87f4-4f6e-8d55-3818dc27f7fe",
+    "note_date": "2024-06-24T01:00:00",
+    "note_type": "follow_up",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-06-24T01:00:00"
+  },
+  {
+    "note_id": "29b39844-a80e-4609-a041-b0bb32e80835",
+    "patient_id": "69d7b2a0-c842-4339-a1a7-393800ba8cf1",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "d575b13d-8399-4489-86ea-897413b1f200",
+    "note_date": "2024-05-24T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 4 weeks.",
+    "created_at": "2024-05-24T01:00:00"
+  },
+  {
+    "note_id": "7dddae7d-757d-435c-a191-a4a56c5ec669",
+    "patient_id": "a6cecb15-2c05-4928-95eb-1b91bb55e448",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "4b07fb98-7f6f-4763-a5cd-fbacb00d378b",
+    "note_date": "2023-09-14T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 6 weeks.",
+    "created_at": "2023-09-14T01:00:00"
+  },
+  {
+    "note_id": "2323657d-1fda-472d-8fe4-411d2e1e8784",
+    "patient_id": "a22ce9cd-f181-4dcb-b34e-176a8ee2dffb",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "4012aace-321f-4908-9986-e54d6d84d249",
+    "note_date": "2023-12-23T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to schedule follow-up.",
+    "created_at": "2023-12-23T01:00:00"
+  },
+  {
+    "note_id": "f3718366-394c-41ae-aeb2-ea28028d3d62",
+    "patient_id": "b7aeeb8d-cbee-40d9-b870-002285630511",
+    "clinician_id": "8a329104-3b70-4ce7-94cf-3df55bd7cd33",
+    "appointment_id": "4485fae0-5801-4fe4-9236-b25454520604",
+    "note_date": "2023-08-01T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2023-08-01T01:00:00"
+  },
+  {
+    "note_id": "3d5f566d-870b-4cc7-bafe-fc738803e023",
+    "patient_id": "a6cecb15-2c05-4928-95eb-1b91bb55e448",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "190c207d-baf5-4823-8813-0611bbc27ed4",
+    "note_date": "2023-03-17T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with loud snoring. Recommend polysomnography.",
+    "created_at": "2023-03-17T01:00:00"
+  },
+  {
+    "note_id": "7b50581b-f812-4099-96cc-80f53893a139",
+    "patient_id": "b08305b2-8479-4390-a111-1506bef5209c",
+    "clinician_id": "8a329104-3b70-4ce7-94cf-3df55bd7cd33",
+    "appointment_id": "85604916-91b9-487f-b280-84a5dd632595",
+    "note_date": "2023-03-18T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to adjust CPAP pressure.",
+    "created_at": "2023-03-18T01:00:00"
+  },
+  {
+    "note_id": "46f1d5a7-8b18-4f9a-98cc-921d4aa02a0c",
+    "patient_id": "8306b7e7-7cfb-464c-8b72-3fbfd3f8cb1c",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "535d3075-e998-4c0d-8a54-bd307beb30be",
+    "note_date": "2023-04-13T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with loud snoring. Recommend referral to ENT.",
+    "created_at": "2023-04-13T01:00:00"
+  },
+  {
+    "note_id": "57345416-a504-473a-bf11-c5e6311c871e",
+    "patient_id": "0c9576dc-53cc-4567-9f23-978f671d0ebe",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "a754540a-7618-4192-8d87-9c7cc6d64895",
+    "note_date": "2024-08-30T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to schedule follow-up.",
+    "created_at": "2024-08-30T01:00:00"
+  },
+  {
+    "note_id": "9e54c4c7-4c86-48f6-ab49-3b6c96ebace9",
+    "patient_id": "e7162efe-48f6-41e4-a22c-564c8e702039",
+    "clinician_id": "1d11bb41-12f0-4159-93c8-70986af81c5d",
+    "appointment_id": "f5123043-1447-480a-b02f-9646129b3878",
+    "note_date": "2023-11-04T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to adjust CPAP pressure.",
+    "created_at": "2023-11-04T01:00:00"
+  },
+  {
+    "note_id": "d5915004-02d0-4468-9407-90956e92ff15",
+    "patient_id": "342adfd6-f368-4e26-b7b0-e9205f08a648",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "90949c17-4546-4e05-bae7-6d8946ca2f01",
+    "note_date": "2023-11-26T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with loud snoring. Recommend referral to ENT.",
+    "created_at": "2023-11-26T01:00:00"
+  },
+  {
+    "note_id": "7f224c31-d723-4b42-b7fc-eab8f3164d83",
+    "patient_id": "cf87cd41-9cbc-4d25-bc58-4b35ad784e7d",
+    "clinician_id": "1d34cba7-214a-4883-adfd-962260eff927",
+    "appointment_id": "7fec5497-911a-4cbe-95f0-3e2aa95c5095",
+    "note_date": "2024-09-26T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 12 weeks.",
+    "created_at": "2024-09-26T01:00:00"
+  },
+  {
+    "note_id": "a2952ac7-5926-4907-b8e2-9417955229a0",
+    "patient_id": "08cea467-5a1b-40bd-a3e3-1223c0c19646",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "c6c4b379-a578-4fc2-8235-0341d726f2d2",
+    "note_date": "2024-07-17T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with insomnia. Recommend CPAP therapy.",
+    "created_at": "2024-07-17T01:00:00"
+  },
+  {
+    "note_id": "ab864874-2891-4720-8d34-e8a5bd66482f",
+    "patient_id": "225a02f8-658e-4184-8f13-f3b07509eb32",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "ee08a7ca-f8c3-4878-a7dd-91846e82733f",
+    "note_date": "2023-03-12T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to adjust CPAP pressure.",
+    "created_at": "2023-03-12T01:00:00"
+  },
+  {
+    "note_id": "1d854512-dcb1-4bb1-a736-c1b3e214d583",
+    "patient_id": "20598abb-62d8-4ce9-8e98-8072aa52fa03",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "8ab2caa5-71a4-4060-b6d0-d26c16e79ce7",
+    "note_date": "2023-03-16T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to schedule follow-up.",
+    "created_at": "2023-03-16T01:00:00"
+  },
+  {
+    "note_id": "46f9d046-d569-4b7c-89b6-afe119c0e3da",
+    "patient_id": "f3121b04-3888-49dc-aa1c-79724ef94912",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "e78532d6-0730-483e-86e1-751ea1a3e398",
+    "note_date": "2023-05-28T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to adjust CPAP pressure.",
+    "created_at": "2023-05-28T01:00:00"
+  },
+  {
+    "note_id": "764163fe-839d-45ae-81af-ed3566a2f43f",
+    "patient_id": "9a4fa496-2c6a-4a35-8cfa-6a381b80241b",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "a2a3fc91-7bbc-4b40-85a4-9443ec4910a4",
+    "note_date": "2023-03-21T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 12 weeks.",
+    "created_at": "2023-03-21T01:00:00"
+  },
+  {
+    "note_id": "68fa22bb-7d2b-4b6d-8524-c2eb11372141",
+    "patient_id": "c92c3c70-92af-4459-9e10-1dc409398514",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "d989e588-be3f-4f7d-8d03-c9def09cc0da",
+    "note_date": "2023-10-19T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2023-10-19T01:00:00"
+  },
+  {
+    "note_id": "ced90661-93fb-4d82-b97c-6805694bdc47",
+    "patient_id": "315dda19-bc4e-46f6-b50e-8943248e79f5",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "724e551a-3f06-4b82-95e3-6b96a4d5e001",
+    "note_date": "2024-03-31T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with loud snoring. Recommend referral to ENT.",
+    "created_at": "2024-03-31T01:00:00"
+  },
+  {
+    "note_id": "802bbff0-dd43-4352-8d4c-6dc218700ac1",
+    "patient_id": "7698105c-2b9c-43d5-97c8-3721a3639266",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "42934328-ecc0-401c-9e2a-193dc8d6810a",
+    "note_date": "2024-05-10T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with loud snoring. Recommend referral to ENT.",
+    "created_at": "2024-05-10T01:00:00"
+  },
+  {
+    "note_id": "c335eb0d-cd99-46c9-b991-5f90d35e744d",
+    "patient_id": "7b0384cd-2d6b-478d-a4f1-9da2ad6a2f7e",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "0c49f594-5be4-44c5-85ec-45e305f75e04",
+    "note_date": "2024-05-17T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with excessive daytime sleepiness. Recommend lifestyle modifications.",
+    "created_at": "2024-05-17T01:00:00"
+  },
+  {
+    "note_id": "9e1184eb-f7f2-47bc-ad44-c4b1929f4366",
+    "patient_id": "24e4b58b-2587-415d-8f1c-eab5db7bbc82",
+    "clinician_id": "e77f34ea-5cd8-4685-9edb-1d6a7661b106",
+    "appointment_id": "59923932-a810-4a1e-b8dd-6381bcb6d085",
+    "note_date": "2024-08-11T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 4 weeks.",
+    "created_at": "2024-08-11T01:00:00"
+  },
+  {
+    "note_id": "95bfb686-a15c-4a41-86c0-110c2e6280b9",
+    "patient_id": "75e82247-c9ce-46d8-a6ff-1174356fc1a8",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "7462c84c-6731-4d2a-bef5-cdc70ebb8828",
+    "note_date": "2023-09-21T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2023-09-21T01:00:00"
+  },
+  {
+    "note_id": "a1b8e657-00d9-490e-9e79-8c34ddd0330c",
+    "patient_id": "b23bbdb3-5760-4818-9a79-9ae0b4e2f2e1",
+    "clinician_id": "4a955f2d-90da-4aaa-bc5f-09060a33ebd3",
+    "appointment_id": "cb6038ed-bc0a-44b7-a746-7cfc2b555629",
+    "note_date": "2023-10-30T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with morning headaches. Recommend CPAP therapy.",
+    "created_at": "2023-10-30T01:00:00"
+  },
+  {
+    "note_id": "4ce1b305-b05e-4c6b-aece-d267c136629a",
+    "patient_id": "a0c6c2c5-0a81-4c03-8393-fd3e5d9a2b77",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "e1e96ab4-c3d0-4069-b39d-b95eb6dddca2",
+    "note_date": "2023-07-03T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2023-07-03T01:00:00"
+  },
+  {
+    "note_id": "3f1dbd99-99c7-40ce-81f0-82ad05b50905",
+    "patient_id": "a22ce9cd-f181-4dcb-b34e-176a8ee2dffb",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "524df556-3a9c-416f-aabb-b85d9f75fdd9",
+    "note_date": "2024-03-17T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2024-03-17T01:00:00"
+  },
+  {
+    "note_id": "48cc7ac0-dbce-4eab-a2be-6aea8e64ace6",
+    "patient_id": "14916ee5-ceea-4004-9c73-49203f13a136",
+    "clinician_id": "4a955f2d-90da-4aaa-bc5f-09060a33ebd3",
+    "appointment_id": "27c8e774-92b9-472a-865f-5764e207a2b9",
+    "note_date": "2024-07-03T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with morning headaches. Recommend CPAP therapy.",
+    "created_at": "2024-07-03T01:00:00"
+  },
+  {
+    "note_id": "9662e7e1-8636-47c1-951b-f4edf266d598",
+    "patient_id": "be857842-9a4b-46b5-bee0-1ba2e75fbb22",
+    "clinician_id": "e9987f54-915f-4efd-9963-08efa6162e4e",
+    "appointment_id": "fe558c03-61f5-426a-a85f-9f247f436a5f",
+    "note_date": "2023-11-01T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2023-11-01T01:00:00"
+  },
+  {
+    "note_id": "f6d1241b-699b-45b4-af25-5798b9876b35",
+    "patient_id": "3ddf03af-468f-410f-8281-c22d1dbca340",
+    "clinician_id": "95253b39-4dfa-4d05-93f9-c1d60652b1c9",
+    "appointment_id": "d249b42e-5210-4a6e-ab1f-1a5b12d94a29",
+    "note_date": "2023-10-30T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 4 weeks.",
+    "created_at": "2023-10-30T01:00:00"
+  },
+  {
+    "note_id": "0a19d2cf-f2cf-41f9-b234-ee027b620167",
+    "patient_id": "60535b4f-e3d9-40c7-b240-ce6652e25dfb",
+    "clinician_id": "e77f34ea-5cd8-4685-9edb-1d6a7661b106",
+    "appointment_id": "e8acf203-3dfb-4f4b-bf50-5ccfcc0213e9",
+    "note_date": "2024-06-20T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with morning headaches. Recommend polysomnography.",
+    "created_at": "2024-06-20T01:00:00"
+  },
+  {
+    "note_id": "69450510-2530-4782-81f9-6d02d1e13717",
+    "patient_id": "372dc581-fbf3-4597-8cd8-b46b902c9051",
+    "clinician_id": "95253b39-4dfa-4d05-93f9-c1d60652b1c9",
+    "appointment_id": "bd7eab1c-9982-4f5f-b40e-acc1c4c8b3dd",
+    "note_date": "2024-09-24T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 4 weeks.",
+    "created_at": "2024-09-24T01:00:00"
+  },
+  {
+    "note_id": "23079230-e7e5-4927-86c0-a49acf3c2419",
+    "patient_id": "9f87464c-aaf1-40c4-a46d-55663d82031a",
+    "clinician_id": "95253b39-4dfa-4d05-93f9-c1d60652b1c9",
+    "appointment_id": "ce513d47-fe5a-4eb5-ae54-223e30d5f35a",
+    "note_date": "2024-06-10T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-06-10T01:00:00"
+  },
+  {
+    "note_id": "0663bb14-fb9b-4b86-a280-d4999b815650",
+    "patient_id": "49fcfce8-81bf-4588-b4f3-042ad420ce59",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "5b002ff1-a1df-417e-a5f8-c68727241ccb",
+    "note_date": "2023-05-12T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to schedule follow-up.",
+    "created_at": "2023-05-12T01:00:00"
+  },
+  {
+    "note_id": "e169a8e3-99af-4dec-ba2b-d39631955798",
+    "patient_id": "cc35c682-0568-43ea-af3b-2a2b65cc3ab2",
+    "clinician_id": "e77f34ea-5cd8-4685-9edb-1d6a7661b106",
+    "appointment_id": "ecbf8ec9-c6ef-4fd5-acec-24ed58fef801",
+    "note_date": "2024-08-31T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to adjust CPAP pressure.",
+    "created_at": "2024-08-31T01:00:00"
+  },
+  {
+    "note_id": "3150ece8-5e6c-48e3-bdf4-9b0418751853",
+    "patient_id": "a22ce9cd-f181-4dcb-b34e-176a8ee2dffb",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "3203a343-151b-4d5c-a6fe-d4b72548af7f",
+    "note_date": "2024-06-01T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with insomnia. Recommend lifestyle modifications.",
+    "created_at": "2024-06-01T01:00:00"
+  },
+  {
+    "note_id": "fe56b0bd-3e42-4355-9416-21366ace32d6",
+    "patient_id": "a9cf375b-6d85-452c-a7a7-2fb97470e9c6",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "2edc2f55-2d59-4dfa-85aa-6c55e4473603",
+    "note_date": "2023-09-14T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to schedule follow-up.",
+    "created_at": "2023-09-14T01:00:00"
+  },
+  {
+    "note_id": "5697d994-c33c-4fa5-90c6-7ee84a45646e",
+    "patient_id": "6dd54154-5d3d-4293-9449-0826debb4de8",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "92aaea07-4faa-44c4-8266-9d2dd1ef862a",
+    "note_date": "2024-02-28T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with morning headaches. Recommend referral to ENT.",
+    "created_at": "2024-02-28T01:00:00"
+  },
+  {
+    "note_id": "4ea4ca0f-45a7-4119-a6bb-1de166837696",
+    "patient_id": "3ddf03af-468f-410f-8281-c22d1dbca340",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "3e8284ff-9d3d-4dc8-b14e-049253a05248",
+    "note_date": "2023-06-08T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with excessive daytime sleepiness. Recommend CPAP therapy.",
+    "created_at": "2023-06-08T01:00:00"
+  },
+  {
+    "note_id": "59ee31bf-7aad-4aea-92a3-0e2a338630f6",
+    "patient_id": "851b5c35-898c-4edd-a792-3924cda89398",
+    "clinician_id": "073975de-3dec-4bce-a451-0b03c8c44dff",
+    "appointment_id": "5a259d7f-f00c-446c-bdd4-a6438e8ec805",
+    "note_date": "2023-03-22T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to continue current therapy.",
+    "created_at": "2023-03-22T01:00:00"
+  },
+  {
+    "note_id": "f50281f3-eb14-46b4-b785-4252dd02a592",
+    "patient_id": "f3121b04-3888-49dc-aa1c-79724ef94912",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "5fbea676-e62d-480b-bdcd-c326e781adcc",
+    "note_date": "2023-10-09T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 12 weeks.",
+    "created_at": "2023-10-09T01:00:00"
+  },
+  {
+    "note_id": "6b961976-6d0b-4cce-8948-27a6c50b1d96",
+    "patient_id": "3ddf03af-468f-410f-8281-c22d1dbca340",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "2cb12408-323d-4b69-8751-da365b7ab293",
+    "note_date": "2023-06-18T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 8 weeks.",
+    "created_at": "2023-06-18T01:00:00"
+  },
+  {
+    "note_id": "7eb8b3fc-db4e-4024-8faf-5993742155a9",
+    "patient_id": "8d3bddbc-ce89-4c97-a1ae-9df8e329514c",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "c2143692-c0f1-480e-b123-7100858d32e2",
+    "note_date": "2024-07-12T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 4 weeks.",
+    "created_at": "2024-07-12T01:00:00"
+  },
+  {
+    "note_id": "4aa45bf6-6b00-464b-bbe7-6f6e4821b966",
+    "patient_id": "b23bbdb3-5760-4818-9a79-9ae0b4e2f2e1",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "40264b13-f6c9-4b3f-b6ee-5f8808b6417a",
+    "note_date": "2024-02-24T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 8 weeks.",
+    "created_at": "2024-02-24T01:00:00"
+  },
+  {
+    "note_id": "25730067-2702-4cb6-888b-0170f0980187",
+    "patient_id": "c2ac8ea8-36b8-4aca-8eb5-904179c218da",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "43ce1998-c6bc-4f73-a2ee-ac166a4996df",
+    "note_date": "2023-01-17T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2023-01-17T01:00:00"
+  },
+  {
+    "note_id": "ace3457d-81c2-4978-ada7-9a0557124889",
+    "patient_id": "dd514908-26ab-468c-83cd-b1597ff03e4d",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "e4fc74bd-32f9-49d7-9efb-488ae6e8b86a",
+    "note_date": "2024-09-26T01:00:00",
+    "note_type": "follow_up",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-09-26T01:00:00"
+  },
+  {
+    "note_id": "807bba25-9f2f-40af-86fd-4b80d0f9e575",
+    "patient_id": "9c5ab183-652a-4ff2-890c-7ddf7d8866e9",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "abf6db2f-5687-4d01-b0e3-5604bbd19566",
+    "note_date": "2023-04-10T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2023-04-10T01:00:00"
+  },
+  {
+    "note_id": "92c99546-1ba0-4057-b028-404f1c85f0b8",
+    "patient_id": "851b5c35-898c-4edd-a792-3924cda89398",
+    "clinician_id": "073975de-3dec-4bce-a451-0b03c8c44dff",
+    "appointment_id": "b7d38386-3078-4011-98af-8d0977ee9e9f",
+    "note_date": "2024-04-02T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-04-02T01:00:00"
+  },
+  {
+    "note_id": "479920c4-1962-4ce4-8a93-a078a6215029",
+    "patient_id": "49a440fc-0e5d-44af-b7de-64991135286a",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "0a38181d-90f1-4b3e-a832-e3bd9c3fa711",
+    "note_date": "2023-07-31T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 8 weeks.",
+    "created_at": "2023-07-31T01:00:00"
+  },
+  {
+    "note_id": "e5a5e655-3c69-47c0-9d20-fc854dd2ca1d",
+    "patient_id": "d8ac604a-3e43-4f2a-8618-7ceeb4beebed",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "a0be2004-c7b5-4e41-af69-620a38fbf716",
+    "note_date": "2023-05-24T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 8 weeks.",
+    "created_at": "2023-05-24T01:00:00"
+  },
+  {
+    "note_id": "a70a51e9-0136-46fb-82f2-934ff1222e60",
+    "patient_id": "70d945db-4ecd-40df-9306-8c3fc9c75472",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "2d92f202-9f5f-4055-94a8-971607b69004",
+    "note_date": "2024-05-29T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2024-05-29T01:00:00"
+  },
+  {
+    "note_id": "699794fa-ede3-44dd-ad7a-fa9a0012e63b",
+    "patient_id": "71304c89-5820-421c-9c60-e4b633651d17",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "fc2539bb-b3bc-439d-9b2b-660ca98740ed",
+    "note_date": "2023-12-02T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to schedule follow-up.",
+    "created_at": "2023-12-02T01:00:00"
+  },
+  {
+    "note_id": "f6861bc5-890a-4719-b5f8-38a8e674eacf",
+    "patient_id": "be60e3e0-f2d2-4135-a5d5-3feff109f22e",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "121fbea2-6c35-4f83-8ae5-baaa30ab99d1",
+    "note_date": "2023-02-18T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to adjust CPAP pressure.",
+    "created_at": "2023-02-18T01:00:00"
+  },
+  {
+    "note_id": "e88925df-8307-4a57-bad1-572ee7111428",
+    "patient_id": "2235be6a-9680-4470-ba2c-323ed6c50cb0",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "d5338324-1dcc-4e6a-93f6-f1767f997623",
+    "note_date": "2023-10-11T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 12 weeks.",
+    "created_at": "2023-10-11T01:00:00"
+  },
+  {
+    "note_id": "b947704c-85ca-4ee6-b889-7e308b4ccac2",
+    "patient_id": "14916ee5-ceea-4004-9c73-49203f13a136",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "fdf4e2c7-31b4-4680-8394-f7ca87317665",
+    "note_date": "2023-08-31T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to schedule follow-up.",
+    "created_at": "2023-08-31T01:00:00"
+  },
+  {
+    "note_id": "0d420854-5ba5-46b0-ba69-931be6499649",
+    "patient_id": "08cea467-5a1b-40bd-a3e3-1223c0c19646",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "9c5ff07f-04c0-443e-a5d9-5d66344ce224",
+    "note_date": "2023-10-24T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Patient presents with morning headaches. Recommend lifestyle modifications.",
+    "created_at": "2023-10-24T01:00:00"
+  },
+  {
+    "note_id": "24afe093-3334-4912-9144-7d0447cc74a2",
+    "patient_id": "7698105c-2b9c-43d5-97c8-3721a3639266",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "ae26c037-f1db-4d1e-9707-f5bb9d9fcf88",
+    "note_date": "2023-08-09T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to schedule follow-up.",
+    "created_at": "2023-08-09T01:00:00"
+  },
+  {
+    "note_id": "ec5d0d4a-fc6b-4f2f-94f1-4ddc552d6d54",
+    "patient_id": "7b0384cd-2d6b-478d-a4f1-9da2ad6a2f7e",
+    "clinician_id": "e9987f54-915f-4efd-9963-08efa6162e4e",
+    "appointment_id": "85e53bfa-2412-42e5-8dd2-7af32b2e6aa1",
+    "note_date": "2023-08-05T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 8 weeks.",
+    "created_at": "2023-08-05T01:00:00"
+  },
+  {
+    "note_id": "09f23bff-8cf9-4635-a9f7-e135df576d5b",
+    "patient_id": "c2ac8ea8-36b8-4aca-8eb5-904179c218da",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "2c9fcdca-5310-4f06-a352-eb09fd9b7349",
+    "note_date": "2023-03-26T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2023-03-26T01:00:00"
+  },
+  {
+    "note_id": "d0ed261e-5284-46b2-b069-b2f5497ecf25",
+    "patient_id": "6dd54154-5d3d-4293-9449-0826debb4de8",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "a7d5b93b-271e-4727-9840-047f1c14e699",
+    "note_date": "2023-10-16T01:00:00",
+    "note_type": "assessment",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 6 weeks.",
+    "created_at": "2023-10-16T01:00:00"
+  },
+  {
+    "note_id": "1d3c70dc-9e2d-41ad-b5dc-bfb7452baa58",
+    "patient_id": "be8e050b-b558-4a79-82c0-004412cf9b31",
+    "clinician_id": "8e5bb27f-61d8-4f00-8241-92c3326b7355",
+    "appointment_id": "aae8439f-0f59-45ea-b9c5-a701a68be84a",
+    "note_date": "2024-06-04T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-06-04T01:00:00"
+  },
+  {
+    "note_id": "524bc4f0-888e-43de-9eec-855b035d57a9",
+    "patient_id": "1ac63f4c-66e7-4cfb-b0a7-26ed9ef0bab1",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "af4098b2-258a-40e2-9b96-08eee878f3cb",
+    "note_date": "2024-04-14T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 8 weeks.",
+    "created_at": "2024-04-14T01:00:00"
+  },
+  {
+    "note_id": "0db1af77-66ab-462d-af1f-2ec969b1cf6d",
+    "patient_id": "3ddf03af-468f-410f-8281-c22d1dbca340",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "cd0d290c-22bd-4d7e-989a-69fae1d65a9a",
+    "note_date": "2023-08-28T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2023-08-28T01:00:00"
+  },
+  {
+    "note_id": "192efb35-4975-4773-a836-0f117ad89659",
+    "patient_id": "315dda19-bc4e-46f6-b50e-8943248e79f5",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "eed53620-41ed-4730-8f39-557e1cc7e1f4",
+    "note_date": "2023-05-27T01:00:00",
+    "note_type": "assessment",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 4 weeks.",
+    "created_at": "2023-05-27T01:00:00"
+  },
+  {
+    "note_id": "3731ff93-8dfc-4180-a293-2a0c0cd04893",
+    "patient_id": "9f87464c-aaf1-40c4-a46d-55663d82031a",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "cf017657-83b7-4035-9e2f-5b4f40bbe144",
+    "note_date": "2024-01-05T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to adjust CPAP pressure.",
+    "created_at": "2024-01-05T01:00:00"
+  },
+  {
+    "note_id": "d4ebb56a-8eb7-493b-9e47-9b233329a8a4",
+    "patient_id": "9c5ab183-652a-4ff2-890c-7ddf7d8866e9",
+    "clinician_id": "4a955f2d-90da-4aaa-bc5f-09060a33ebd3",
+    "appointment_id": "58abf441-952b-4e4f-88e2-23079309a8cc",
+    "note_date": "2023-01-23T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with loud snoring. Recommend polysomnography.",
+    "created_at": "2023-01-23T01:00:00"
+  },
+  {
+    "note_id": "56bc77fb-93fa-46b3-8419-b3126362751e",
+    "patient_id": "44407413-66bd-4bc6-adc3-bff267db9437",
+    "clinician_id": "1d34cba7-214a-4883-adfd-962260eff927",
+    "appointment_id": "640ee1a7-cb87-4ea4-a723-5bc29b95bb89",
+    "note_date": "2024-05-26T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2024-05-26T01:00:00"
+  },
+  {
+    "note_id": "e67bcdad-dba3-45b1-91ea-1d9506cf4850",
+    "patient_id": "d03809ce-e10e-493f-8186-c25258e685c2",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "728aae03-abcb-4f29-99b5-d754c72759dc",
+    "note_date": "2024-07-13T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Patient presents with insomnia. Recommend CPAP therapy.",
+    "created_at": "2024-07-13T01:00:00"
+  },
+  {
+    "note_id": "4d9f3fd0-64f7-44d6-afeb-da50916e0274",
+    "patient_id": "58fb97e0-a39f-47e3-9660-16e30dffa848",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "ffd9d2b4-5a6b-472a-b5c7-2889ec222542",
+    "note_date": "2023-07-24T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 4 weeks.",
+    "created_at": "2023-07-24T01:00:00"
+  },
+  {
+    "note_id": "585219be-10e6-4f80-adac-0aed6727c497",
+    "patient_id": "b08305b2-8479-4390-a111-1506bef5209c",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "c011490a-5c8d-4656-9fb9-183b446861a2",
+    "note_date": "2023-05-14T01:00:00",
+    "note_type": "assessment",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 4 weeks.",
+    "created_at": "2023-05-14T01:00:00"
+  },
+  {
+    "note_id": "4fea9627-3877-44cc-8f61-75b663173e11",
+    "patient_id": "69b864d2-53f5-4f3a-94fe-4e997d6dc615",
+    "clinician_id": "95253b39-4dfa-4d05-93f9-c1d60652b1c9",
+    "appointment_id": "63b7d5c3-5f61-4a34-95e9-42425abd068b",
+    "note_date": "2024-03-24T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2024-03-24T01:00:00"
+  },
+  {
+    "note_id": "626412cc-a3bc-4cbd-a2b1-292f65bf0b97",
+    "patient_id": "a7dce94b-f8b2-4419-8908-b3b7a32c6174",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "627d0b33-4ffe-4bdd-b3a9-b4525fc2b5f4",
+    "note_date": "2024-08-02T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to adjust CPAP pressure.",
+    "created_at": "2024-08-02T01:00:00"
+  },
+  {
+    "note_id": "d66b0deb-e93c-4830-a0d3-35a627cf1e75",
+    "patient_id": "24e4b58b-2587-415d-8f1c-eab5db7bbc82",
+    "clinician_id": "4a955f2d-90da-4aaa-bc5f-09060a33ebd3",
+    "appointment_id": "edb80c1a-17c5-4338-8458-22b53fffb63f",
+    "note_date": "2023-08-01T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to schedule follow-up.",
+    "created_at": "2023-08-01T01:00:00"
+  },
+  {
+    "note_id": "c2f3c92a-8a7f-477a-85fc-2f9242c949d4",
+    "patient_id": "24e65ee2-8356-4443-b9e0-42382383e367",
+    "clinician_id": "8a329104-3b70-4ce7-94cf-3df55bd7cd33",
+    "appointment_id": "8fb40da4-e9ba-4302-b9bd-23653176b34e",
+    "note_date": "2023-12-10T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with loud snoring. Recommend CPAP therapy.",
+    "created_at": "2023-12-10T01:00:00"
+  },
+  {
+    "note_id": "61e14577-bd29-45f5-b5ab-f6ca392f41ea",
+    "patient_id": "32e4436d-eebb-47f2-adc5-d0f7a8ad0b8b",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "3286fb10-25a0-4c74-bcb9-b0e92e06e194",
+    "note_date": "2024-04-04T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Patient presents with morning headaches. Recommend CPAP therapy.",
+    "created_at": "2024-04-04T01:00:00"
+  },
+  {
+    "note_id": "b27bb22b-5054-4a18-a3f7-13eae7a778e5",
+    "patient_id": "7e430706-8dba-4e90-8a1b-77e341cb4892",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "5a2fac73-3dda-4371-ab44-9372e0c37cea",
+    "note_date": "2023-03-13T01:00:00",
+    "note_type": "follow_up",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2023-03-13T01:00:00"
+  },
+  {
+    "note_id": "3b771a4d-49e2-488d-993d-f72607ff8627",
+    "patient_id": "372dc581-fbf3-4597-8cd8-b46b902c9051",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "659e76ff-6b12-43b7-83f8-798d4f2614eb",
+    "note_date": "2024-03-09T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to schedule follow-up.",
+    "created_at": "2024-03-09T01:00:00"
+  },
+  {
+    "note_id": "2c3d58e8-aa20-430b-938a-0361490af184",
+    "patient_id": "2b788730-5c8d-44fc-aa7c-db3acaa5fcf2",
+    "clinician_id": "1d11bb41-12f0-4159-93c8-70986af81c5d",
+    "appointment_id": "28ebad62-71ec-4455-ba15-0b5dac8cb3fd",
+    "note_date": "2024-04-25T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to schedule follow-up.",
+    "created_at": "2024-04-25T01:00:00"
+  },
+  {
+    "note_id": "282e267e-9785-4de8-b5f2-b79962d73356",
+    "patient_id": "208646ec-feea-4f07-a804-5ce5795ae5b0",
+    "clinician_id": "e77f34ea-5cd8-4685-9edb-1d6a7661b106",
+    "appointment_id": "1833ee50-8c1c-4cec-9310-45bed955020d",
+    "note_date": "2024-04-11T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to schedule follow-up.",
+    "created_at": "2024-04-11T01:00:00"
+  },
+  {
+    "note_id": "cf6d86da-d8ac-45dc-a9dd-da5dac2efdd8",
+    "patient_id": "863da516-f203-4c7a-bfa9-3c5a27b79083",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "22aaff47-dc6b-4644-96d6-a9086b416fc7",
+    "note_date": "2023-06-27T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to adjust CPAP pressure.",
+    "created_at": "2023-06-27T01:00:00"
+  },
+  {
+    "note_id": "92e29095-0a90-46bc-8335-b0d33ebd665c",
+    "patient_id": "cf848859-ecc3-4b7b-a732-acc677382350",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "95faeff0-07b6-408b-9524-f3bd2e5ad9a4",
+    "note_date": "2023-05-15T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to continue current therapy.",
+    "created_at": "2023-05-15T01:00:00"
+  },
+  {
+    "note_id": "12a6992a-2566-4582-8529-f3f04e2bd671",
+    "patient_id": "14916ee5-ceea-4004-9c73-49203f13a136",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "b0c06a5e-ca99-4346-8720-6526f1f4868e",
+    "note_date": "2023-10-27T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with excessive daytime sleepiness. Recommend polysomnography.",
+    "created_at": "2023-10-27T01:00:00"
+  },
+  {
+    "note_id": "78d40c79-68d0-4383-b4fa-c45b46c94306",
+    "patient_id": "a0c6c2c5-0a81-4c03-8393-fd3e5d9a2b77",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "ab3d5579-0d95-4663-b709-99ec6873745b",
+    "note_date": "2023-12-26T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to schedule follow-up.",
+    "created_at": "2023-12-26T01:00:00"
+  },
+  {
+    "note_id": "92d22537-ae0e-4aba-bbea-695e3f61aaf2",
+    "patient_id": "62a1ce20-8f15-4a71-bc3c-4f7335e9c782",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "ca58673f-bdc1-4917-988e-907aa4a3e2cc",
+    "note_date": "2024-09-12T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with morning headaches. Recommend CPAP therapy.",
+    "created_at": "2024-09-12T01:00:00"
+  },
+  {
+    "note_id": "efcf4125-37dd-45d8-af44-14b45e47deea",
+    "patient_id": "b784fa06-6736-46f7-a77f-a7050507d618",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "57384529-39b5-40bd-b21e-baf47fe888fe",
+    "note_date": "2023-03-11T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with insomnia. Recommend polysomnography.",
+    "created_at": "2023-03-11T01:00:00"
+  },
+  {
+    "note_id": "a347ed36-b34b-4b8a-b898-950deb3238cf",
+    "patient_id": "1ac63f4c-66e7-4cfb-b0a7-26ed9ef0bab1",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "b936591d-9ec0-4a85-af3d-b8add74009b7",
+    "note_date": "2023-11-07T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2023-11-07T01:00:00"
+  },
+  {
+    "note_id": "1d9d4138-72cf-49fb-9c72-736018b73957",
+    "patient_id": "be60e3e0-f2d2-4135-a5d5-3feff109f22e",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "b896ffe2-0f1e-42d6-abeb-52877c7a8c46",
+    "note_date": "2024-09-09T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to schedule follow-up.",
+    "created_at": "2024-09-09T01:00:00"
+  },
+  {
+    "note_id": "0ff97ade-bf48-4876-89db-2ff83b9da671",
+    "patient_id": "1ac63f4c-66e7-4cfb-b0a7-26ed9ef0bab1",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "3d5edfab-606b-4dfd-81fd-9fd7fc7c5ad2",
+    "note_date": "2023-10-22T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Patient presents with morning headaches. Recommend referral to ENT.",
+    "created_at": "2023-10-22T01:00:00"
+  },
+  {
+    "note_id": "f919d78f-c5d7-4867-a8ae-506a691a9853",
+    "patient_id": "9a4fa496-2c6a-4a35-8cfa-6a381b80241b",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "ecbae53a-6eed-4e97-b50d-2498346830cd",
+    "note_date": "2023-03-07T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 8 weeks.",
+    "created_at": "2023-03-07T01:00:00"
+  },
+  {
+    "note_id": "36f6776f-aca5-4aa0-9d5e-01fcd067f3e9",
+    "patient_id": "20598abb-62d8-4ce9-8e98-8072aa52fa03",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "7f5de609-64cf-411d-b111-8c24d6c918d2",
+    "note_date": "2023-06-15T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2023-06-15T01:00:00"
+  },
+  {
+    "note_id": "821cbf1f-e758-48b2-b7b8-9ad821359e02",
+    "patient_id": "311ee645-a2d3-49c9-9c34-4aed21d0cd72",
+    "clinician_id": "1d34cba7-214a-4883-adfd-962260eff927",
+    "appointment_id": "f7ba1dc1-640d-4704-85a1-10f53b62c29d",
+    "note_date": "2023-09-20T01:00:00",
+    "note_type": "follow_up",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2023-09-20T01:00:00"
+  },
+  {
+    "note_id": "9d1907d9-ad3c-4788-b867-9e7b36c75047",
+    "patient_id": "66fd813c-6218-46af-a32a-c2d04698f436",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "8472775b-8e56-442a-95d0-fd11fed4735f",
+    "note_date": "2023-01-30T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with loud snoring. Recommend lifestyle modifications.",
+    "created_at": "2023-01-30T01:00:00"
+  },
+  {
+    "note_id": "5f4d2fad-7942-416b-8bfd-191621fb3808",
+    "patient_id": "3ddf03af-468f-410f-8281-c22d1dbca340",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "cd8d5816-8c74-4a8f-a1ab-f03422675ea3",
+    "note_date": "2024-06-26T01:00:00",
+    "note_type": "follow_up",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-06-26T01:00:00"
+  },
+  {
+    "note_id": "d0da4088-1628-47b1-87bb-a187ad36199c",
+    "patient_id": "fb5feeaf-dc1b-43c6-9c5f-140b2e462b32",
+    "clinician_id": "4a955f2d-90da-4aaa-bc5f-09060a33ebd3",
+    "appointment_id": "c01e9fe4-86c6-40c1-add8-d8062e39a7c8",
+    "note_date": "2023-10-17T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2023-10-17T01:00:00"
+  },
+  {
+    "note_id": "24c983d8-1c0a-4752-904b-d43d2ec58413",
+    "patient_id": "d51dd10e-bd86-41fc-9d5a-b208e44733cf",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "8d774761-a0ca-4564-87e3-bdad70af82d7",
+    "note_date": "2024-09-03T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with morning headaches. Recommend referral to ENT.",
+    "created_at": "2024-09-03T01:00:00"
+  },
+  {
+    "note_id": "ba068f13-cfea-4055-ba90-97e387d977eb",
+    "patient_id": "f3121b04-3888-49dc-aa1c-79724ef94912",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "4267b185-7d94-4f93-b4ec-80e767dfaab1",
+    "note_date": "2023-05-19T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with insomnia. Recommend polysomnography.",
+    "created_at": "2023-05-19T01:00:00"
+  },
+  {
+    "note_id": "d2ad9789-935b-4d49-b07c-dac054fbc7d3",
+    "patient_id": "d03809ce-e10e-493f-8186-c25258e685c2",
+    "clinician_id": "95253b39-4dfa-4d05-93f9-c1d60652b1c9",
+    "appointment_id": "544c6e09-9370-4dfc-9edf-aa18998e7a39",
+    "note_date": "2023-10-24T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to continue current therapy.",
+    "created_at": "2023-10-24T01:00:00"
+  },
+  {
+    "note_id": "9e0ce1f5-c3a5-441e-b04f-732420c96d2b",
+    "patient_id": "911acb7c-000c-4b17-9fc0-a80ad2008573",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "b2fe5d04-cb5e-4167-a790-9c46206487e5",
+    "note_date": "2023-01-08T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2023-01-08T01:00:00"
+  },
+  {
+    "note_id": "d3172d0c-f2a5-4abc-b240-9edf7f9f6986",
+    "patient_id": "a0c6c2c5-0a81-4c03-8393-fd3e5d9a2b77",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "e70dc5dc-29c8-40de-9121-7cbd958ac981",
+    "note_date": "2023-01-20T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to adjust CPAP pressure.",
+    "created_at": "2023-01-20T01:00:00"
+  },
+  {
+    "note_id": "95a0bf19-b543-4d15-9925-27544e632b90",
+    "patient_id": "d8cd35bd-dca3-415f-bb26-594bb3d4148c",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "529b1a16-f49e-4988-b6b6-28507ea3e2a0",
+    "note_date": "2023-12-04T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Patient presents with insomnia. Recommend lifestyle modifications.",
+    "created_at": "2023-12-04T01:00:00"
+  },
+  {
+    "note_id": "9bcaa268-6581-47ab-a92f-b2098f9b36b1",
+    "patient_id": "60535b4f-e3d9-40c7-b240-ce6652e25dfb",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "158be432-0a9e-4aa0-8d0a-35b278ff00f8",
+    "note_date": "2024-08-22T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 6 weeks.",
+    "created_at": "2024-08-22T01:00:00"
+  },
+  {
+    "note_id": "430920dc-a945-4abf-92f8-49e751f24be1",
+    "patient_id": "c92c3c70-92af-4459-9e10-1dc409398514",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "971a1ec4-21bf-4f04-b6c9-a559486cf071",
+    "note_date": "2024-02-03T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with morning headaches. Recommend referral to ENT.",
+    "created_at": "2024-02-03T01:00:00"
+  },
+  {
+    "note_id": "fed6205f-bd25-45bb-a498-49e2817fbd8e",
+    "patient_id": "b7aeeb8d-cbee-40d9-b870-002285630511",
+    "clinician_id": "e77f34ea-5cd8-4685-9edb-1d6a7661b106",
+    "appointment_id": "0f940663-1157-4b32-b5f0-fdfffb010e13",
+    "note_date": "2024-08-24T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 4 weeks.",
+    "created_at": "2024-08-24T01:00:00"
+  },
+  {
+    "note_id": "efc1b3d7-7f1c-43d8-a8dc-d5195054bf62",
+    "patient_id": "372dc581-fbf3-4597-8cd8-b46b902c9051",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "9521b55b-a796-4e71-b9cd-5f355ef87233",
+    "note_date": "2023-05-15T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to adjust CPAP pressure.",
+    "created_at": "2023-05-15T01:00:00"
+  },
+  {
+    "note_id": "90fbf8ad-f28e-43a3-add5-0199ba1649d9",
+    "patient_id": "85a4a02c-7df6-41dd-9083-ca749283ec58",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "0947d97c-c59a-4530-8668-716c0056df71",
+    "note_date": "2024-09-14T01:00:00",
+    "note_type": "follow_up",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2024-09-14T01:00:00"
+  },
+  {
+    "note_id": "a57973b8-e392-4b80-8c87-185a2337281d",
+    "patient_id": "24e4b58b-2587-415d-8f1c-eab5db7bbc82",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "c64edff5-5b98-4687-905a-8c31887150ea",
+    "note_date": "2024-03-19T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Patient presents with morning headaches. Recommend polysomnography.",
+    "created_at": "2024-03-19T01:00:00"
+  },
+  {
+    "note_id": "6081120b-bc8a-424c-b81a-68691bb4c90e",
+    "patient_id": "6384f26a-09c6-435e-a93e-36ceb11ddeba",
+    "clinician_id": "e77f34ea-5cd8-4685-9edb-1d6a7661b106",
+    "appointment_id": "c0601549-2537-4903-af9e-aee8a29fe4e1",
+    "note_date": "2023-09-14T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to continue current therapy.",
+    "created_at": "2023-09-14T01:00:00"
+  },
+  {
+    "note_id": "516aa72a-9df3-48b3-98b1-40f46126b277",
+    "patient_id": "e7162efe-48f6-41e4-a22c-564c8e702039",
+    "clinician_id": "1d11bb41-12f0-4159-93c8-70986af81c5d",
+    "appointment_id": "1fc08c1a-93b0-49a6-a2dd-3dadfed51149",
+    "note_date": "2024-07-02T01:00:00",
+    "note_type": "assessment",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 8 weeks.",
+    "created_at": "2024-07-02T01:00:00"
+  },
+  {
+    "note_id": "6ae23ce2-cd6e-4796-bef7-1b2bffcaed88",
+    "patient_id": "24e4a4f5-0274-47c7-8e41-d93dc1766315",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "0b44fda5-891a-40db-9327-7162bb48e880",
+    "note_date": "2024-05-03T01:00:00",
+    "note_type": "assessment",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 8 weeks.",
+    "created_at": "2024-05-03T01:00:00"
+  },
+  {
+    "note_id": "72a87e3e-9d82-4745-90a3-c7c7173ab7a1",
+    "patient_id": "ce058c63-473c-4f84-86bb-88279878a36c",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "860c9e94-f871-4bff-bb05-89b9723aa0d7",
+    "note_date": "2023-11-10T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with morning headaches. Recommend referral to ENT.",
+    "created_at": "2023-11-10T01:00:00"
+  },
+  {
+    "note_id": "36e062ac-7262-49f9-b1b9-1496bc5eb30b",
+    "patient_id": "85a4a02c-7df6-41dd-9083-ca749283ec58",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "752cde7e-8a5a-4edd-983e-764fd4a82b79",
+    "note_date": "2023-10-07T01:00:00",
+    "note_type": "assessment",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 4 weeks.",
+    "created_at": "2023-10-07T01:00:00"
+  },
+  {
+    "note_id": "6fc9225b-35ab-43f0-b370-785a3578041a",
+    "patient_id": "c127618d-9ba4-4a8e-92c1-0a3a5fb5efd5",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "5efed670-a05b-41db-a781-7819655e9bf2",
+    "note_date": "2024-08-18T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to continue current therapy.",
+    "created_at": "2024-08-18T01:00:00"
+  },
+  {
+    "note_id": "e64bc99d-a67b-4018-bb53-ae9c52c947fb",
+    "patient_id": "37447b58-9d21-492a-9832-e28e430f059c",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "d0371951-43e1-4a81-ad42-dc91ed8cbfb4",
+    "note_date": "2024-05-16T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-05-16T01:00:00"
+  },
+  {
+    "note_id": "4ee0324f-7b29-4683-9244-0b178660ebd7",
+    "patient_id": "499b58d3-973a-4ed4-ba92-999a2559d392",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "1b84ddcc-ab2b-44a1-9a56-087796150eb3",
+    "note_date": "2024-07-20T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with morning headaches. Recommend CPAP therapy.",
+    "created_at": "2024-07-20T01:00:00"
+  },
+  {
+    "note_id": "ba57c6b3-3579-49cf-b5f5-5ea49701e0f1",
+    "patient_id": "82c926d9-4515-4b60-a890-7755b2491b52",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "6d9e831f-6d0b-4c98-8e5d-4a6056b81403",
+    "note_date": "2024-07-11T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 8 weeks.",
+    "created_at": "2024-07-11T01:00:00"
+  },
+  {
+    "note_id": "7f2e8f81-cf66-47b3-9c63-1ced9275b886",
+    "patient_id": "d2ced936-5501-4203-807f-ccdfbffbfbd1",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "b0b02195-69fd-41d5-8211-2893fe6eec6d",
+    "note_date": "2023-10-13T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 6 weeks.",
+    "created_at": "2023-10-13T01:00:00"
+  },
+  {
+    "note_id": "2dd2ee3a-e108-49b3-92d2-b840af721948",
+    "patient_id": "d3fd7823-5277-4234-a4f6-d5b3d42cf3ff",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "7b1a9529-4145-4768-9c51-e3d1834de2b0",
+    "note_date": "2024-02-12T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2024-02-12T01:00:00"
+  },
+  {
+    "note_id": "5ec99eca-614b-4b2d-9c82-7730c5f11a82",
+    "patient_id": "ce058c63-473c-4f84-86bb-88279878a36c",
+    "clinician_id": "1d34cba7-214a-4883-adfd-962260eff927",
+    "appointment_id": "abe1cf4b-349a-48f3-9c23-a5db8598b77f",
+    "note_date": "2023-10-15T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with loud snoring. Recommend lifestyle modifications.",
+    "created_at": "2023-10-15T01:00:00"
+  },
+  {
+    "note_id": "4b71ddae-388d-4f1f-b75c-ec00b93a056d",
+    "patient_id": "e606a6d4-d4b5-4179-bf1a-081f948fcd1a",
+    "clinician_id": "73286582-7f7b-42e1-8f5b-9a9ec01487f8",
+    "appointment_id": "54e35b3c-df18-4ac0-9a83-95becbb47566",
+    "note_date": "2024-02-04T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2024-02-04T01:00:00"
+  },
+  {
+    "note_id": "3ad7a00d-a4e2-4eb8-9fd7-1a49d9066fa5",
+    "patient_id": "44407413-66bd-4bc6-adc3-bff267db9437",
+    "clinician_id": "1d11bb41-12f0-4159-93c8-70986af81c5d",
+    "appointment_id": "23ae9bdd-393b-47f1-b23b-ab4824fc3a34",
+    "note_date": "2024-04-10T01:00:00",
+    "note_type": "progress_note",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2024-04-10T01:00:00"
+  },
+  {
+    "note_id": "2fc98e1b-24a9-4db0-943f-00286b7a584d",
+    "patient_id": "a6cecb15-2c05-4928-95eb-1b91bb55e448",
+    "clinician_id": "1d11bb41-12f0-4159-93c8-70986af81c5d",
+    "appointment_id": "71b40051-ca74-4339-b5cc-3a3d870fc6d0",
+    "note_date": "2024-04-24T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to continue current therapy.",
+    "created_at": "2024-04-24T01:00:00"
+  },
+  {
+    "note_id": "45f86c4a-8cb6-482c-bda4-f71521b9a263",
+    "patient_id": "dd514908-26ab-468c-83cd-b1597ff03e4d",
+    "clinician_id": "8e5bb27f-61d8-4f00-8241-92c3326b7355",
+    "appointment_id": "e8c18599-62e6-4f0c-bd28-0b2447b2f2b3",
+    "note_date": "2023-03-25T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to adjust CPAP pressure.",
+    "created_at": "2023-03-25T01:00:00"
+  },
+  {
+    "note_id": "08632872-14ef-4d54-956e-0b6f39ced4a1",
+    "patient_id": "49fcfce8-81bf-4588-b4f3-042ad420ce59",
+    "clinician_id": "95253b39-4dfa-4d05-93f9-c1d60652b1c9",
+    "appointment_id": "2ccba863-0ca0-49ac-b2f1-0b2e93b44f2e",
+    "note_date": "2024-07-29T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to schedule follow-up.",
+    "created_at": "2024-07-29T01:00:00"
+  },
+  {
+    "note_id": "e683c731-cc18-46cb-a8e2-8ed2bee3380d",
+    "patient_id": "24e4a4f5-0274-47c7-8e41-d93dc1766315",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "7081ca88-6f81-4813-8f02-1249c659be90",
+    "note_date": "2023-12-16T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to schedule follow-up.",
+    "created_at": "2023-12-16T01:00:00"
+  },
+  {
+    "note_id": "0691156c-88e5-40a2-ac70-46a951a6759d",
+    "patient_id": "49a440fc-0e5d-44af-b7de-64991135286a",
+    "clinician_id": "95253b39-4dfa-4d05-93f9-c1d60652b1c9",
+    "appointment_id": "b081f45e-066d-4b04-b180-56e6081d05c4",
+    "note_date": "2024-07-31T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with excessive daytime sleepiness. Recommend referral to ENT.",
+    "created_at": "2024-07-31T01:00:00"
+  },
+  {
+    "note_id": "409b156e-fe0f-4d65-8e95-39bfbfdacc8c",
+    "patient_id": "a9cf375b-6d85-452c-a7a7-2fb97470e9c6",
+    "clinician_id": "568ca045-fae9-41eb-af99-d3ee0370a369",
+    "appointment_id": "aac47072-07b9-4b5a-924c-a012e2892265",
+    "note_date": "2023-04-03T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 8 weeks.",
+    "created_at": "2023-04-03T01:00:00"
+  },
+  {
+    "note_id": "6903ac8d-0595-45a4-b97f-6252502cc4bb",
+    "patient_id": "5c767fb3-caf2-40c6-b3ed-fa8a6c88a5f1",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "c7cbcf30-1637-4195-a82f-1a7bdaa79792",
+    "note_date": "2023-12-25T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to adjust CPAP pressure.",
+    "created_at": "2023-12-25T01:00:00"
+  },
+  {
+    "note_id": "8c374f6f-8362-42d0-b00e-3d459bf3ca1a",
+    "patient_id": "66fd813c-6218-46af-a32a-c2d04698f436",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "ee8eec04-d444-4554-8d58-c22af9185a23",
+    "note_date": "2023-10-30T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 6 weeks.",
+    "created_at": "2023-10-30T01:00:00"
+  },
+  {
+    "note_id": "bd655289-8cac-4e24-a887-9a0d35031436",
+    "patient_id": "49a440fc-0e5d-44af-b7de-64991135286a",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "b078add7-f22d-4b63-b3bf-f0e1c0a1423d",
+    "note_date": "2024-01-06T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 6 weeks.",
+    "created_at": "2024-01-06T01:00:00"
+  },
+  {
+    "note_id": "7ff7ba4e-ceb5-497c-bf20-d5b66e6ee945",
+    "patient_id": "60535b4f-e3d9-40c7-b240-ce6652e25dfb",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "76ff3a46-3464-4c95-ae55-3202b056ade6",
+    "note_date": "2023-03-19T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with morning headaches. Recommend lifestyle modifications.",
+    "created_at": "2023-03-19T01:00:00"
+  },
+  {
+    "note_id": "465a1fed-c6fd-45b6-88f2-b29472f2588a",
+    "patient_id": "d51dd10e-bd86-41fc-9d5a-b208e44733cf",
+    "clinician_id": "8e5bb27f-61d8-4f00-8241-92c3326b7355",
+    "appointment_id": "225e9929-e04d-42ab-aec1-8a94a8b2b8fa",
+    "note_date": "2023-08-24T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with insomnia. Recommend lifestyle modifications.",
+    "created_at": "2023-08-24T01:00:00"
+  },
+  {
+    "note_id": "234af5b8-a87b-4ccc-9d51-febce2c8a6ca",
+    "patient_id": "be60e3e0-f2d2-4135-a5d5-3feff109f22e",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "4f27773f-95d6-4d1f-afab-f575778fe130",
+    "note_date": "2024-04-09T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 6 weeks.",
+    "created_at": "2024-04-09T01:00:00"
+  },
+  {
+    "note_id": "7790aedc-1e2f-480d-834d-8c849218f716",
+    "patient_id": "e7162efe-48f6-41e4-a22c-564c8e702039",
+    "clinician_id": "1d11bb41-12f0-4159-93c8-70986af81c5d",
+    "appointment_id": "18084302-5086-4bae-b3c7-8a5cf67df09d",
+    "note_date": "2023-09-02T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to continue current therapy.",
+    "created_at": "2023-09-02T01:00:00"
+  },
+  {
+    "note_id": "f5c7e15c-af2f-4e03-a170-c842ac80c924",
+    "patient_id": "b85d2740-13e7-472c-96e9-36ef73bf004b",
+    "clinician_id": "e77f34ea-5cd8-4685-9edb-1d6a7661b106",
+    "appointment_id": "364d0d93-c1fa-45bb-8ee4-db7234109b78",
+    "note_date": "2024-03-27T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with loud snoring. Recommend CPAP therapy.",
+    "created_at": "2024-03-27T01:00:00"
+  },
+  {
+    "note_id": "f398f77d-8225-4e8b-85ea-f4dfd6ff2687",
+    "patient_id": "37447b58-9d21-492a-9832-e28e430f059c",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "712bd4dc-83f8-4852-9a7a-7ee99f46e806",
+    "note_date": "2024-05-04T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 12 weeks.",
+    "created_at": "2024-05-04T01:00:00"
+  },
+  {
+    "note_id": "c53badae-3196-4818-a4b9-e0fa8b8d8cc0",
+    "patient_id": "0c9576dc-53cc-4567-9f23-978f671d0ebe",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "7b688ba6-c7d8-4557-8d2f-347cda918163",
+    "note_date": "2023-09-01T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 8 weeks.",
+    "created_at": "2023-09-01T01:00:00"
+  },
+  {
+    "note_id": "b8e59bd0-3fd9-4bbd-a13f-3709f1b61585",
+    "patient_id": "e7162efe-48f6-41e4-a22c-564c8e702039",
+    "clinician_id": "b43e65cf-63e7-48af-95f3-ce8b3b64c06a",
+    "appointment_id": "3fb52768-23ae-49f0-94bd-bf3b21fdc2b4",
+    "note_date": "2023-12-20T01:00:00",
+    "note_type": "assessment",
+    "content": "Patient presents with loud snoring. Recommend CPAP therapy.",
+    "created_at": "2023-12-20T01:00:00"
+  },
+  {
+    "note_id": "bd7dbd7c-4a9e-435c-9313-b99cb46614f7",
+    "patient_id": "9a4fa496-2c6a-4a35-8cfa-6a381b80241b",
+    "clinician_id": "03251487-c05d-427b-a29f-bd74302b994b",
+    "appointment_id": "652599e7-f876-4f96-918d-c81bd9bab682",
+    "note_date": "2023-03-18T01:00:00",
+    "note_type": "follow_up",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2023-03-18T01:00:00"
+  },
+  {
+    "note_id": "78ac50f8-595d-4f1c-abdb-442f8edd7fcc",
+    "patient_id": "a22ce9cd-f181-4dcb-b34e-176a8ee2dffb",
+    "clinician_id": "45bf3679-cb3d-43bc-983e-ff8befcd036f",
+    "appointment_id": "1f6595cb-c2dc-4865-a76f-2c32ef8e7c4c",
+    "note_date": "2024-01-24T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to adjust CPAP pressure.",
+    "created_at": "2024-01-24T01:00:00"
+  },
+  {
+    "note_id": "c1abb121-ddbd-4c89-ab03-4904caa44083",
+    "patient_id": "0ba78bb4-d48d-41c2-842b-3fb85188bd40",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "dee5cbe8-d39a-42dd-ba5f-57bec2645b7e",
+    "note_date": "2024-04-02T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with insomnia. Recommend polysomnography.",
+    "created_at": "2024-04-02T01:00:00"
+  },
+  {
+    "note_id": "b8e1af19-fadc-48f5-8d09-db6bb27c3ad8",
+    "patient_id": "372dc581-fbf3-4597-8cd8-b46b902c9051",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "cecc2b27-7e75-443c-9632-7b0e5b49e667",
+    "note_date": "2024-09-03T01:00:00",
+    "note_type": "progress_note",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 4 weeks.",
+    "created_at": "2024-09-03T01:00:00"
+  },
+  {
+    "note_id": "bb9a6f62-0346-4bfc-9725-5dc074167d50",
+    "patient_id": "76fdc6ab-44e2-4769-b193-829d3a8d645b",
+    "clinician_id": "e9987f54-915f-4efd-9963-08efa6162e4e",
+    "appointment_id": "23088c3b-91dd-4524-b7eb-a25b12b01af5",
+    "note_date": "2023-07-10T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2023-07-10T01:00:00"
+  },
+  {
+    "note_id": "a4306e70-b691-47c3-a057-f09d43abe53d",
+    "patient_id": "6b47e1a0-4502-4e63-b4a0-d5022277868c",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "acb95c0c-7f4d-4b10-8107-71af79fa2d9f",
+    "note_date": "2023-02-02T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 8 weeks.",
+    "created_at": "2023-02-02T01:00:00"
+  },
+  {
+    "note_id": "0185d3c7-45d7-4f70-8013-b281523707f7",
+    "patient_id": "6384f26a-09c6-435e-a93e-36ceb11ddeba",
+    "clinician_id": "4a955f2d-90da-4aaa-bc5f-09060a33ebd3",
+    "appointment_id": "613588a2-64fd-46e3-b4fe-6ba7cc0dba1c",
+    "note_date": "2024-04-06T01:00:00",
+    "note_type": "progress_note",
+    "content": "Patient presents with excessive daytime sleepiness. Recommend polysomnography.",
+    "created_at": "2024-04-06T01:00:00"
+  },
+  {
+    "note_id": "713d9ae7-59c1-4ac8-af38-4b16e1d584ec",
+    "patient_id": "5f8887d8-54d4-4cff-8041-a13a88600c41",
+    "clinician_id": "7e8e5eeb-c7e1-4043-9a18-85d486d75b72",
+    "appointment_id": "116377ed-b069-459b-bad3-409725e3c50d",
+    "note_date": "2024-05-31T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "CPAP compliance noted. Patient is compliant with CPAP. Next review in 4 weeks.",
+    "created_at": "2024-05-31T01:00:00"
+  },
+  {
+    "note_id": "62a3b1ac-f161-476b-8356-52a2261e8bd3",
+    "patient_id": "3ddf03af-468f-410f-8281-c22d1dbca340",
+    "clinician_id": "84724d8c-5148-4fc4-800b-ffae6d184f7a",
+    "appointment_id": "e11b31c9-cdb1-458d-9754-45eff10a656d",
+    "note_date": "2024-01-25T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates severe sleep apnea.",
+    "created_at": "2024-01-25T01:00:00"
+  },
+  {
+    "note_id": "a37a1b46-7bac-45d7-b144-98729d48c890",
+    "patient_id": "abf9aa9f-af8d-43d2-97d6-75037d4b0287",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "57e18311-4dc8-4263-bb8a-0841f28bc2eb",
+    "note_date": "2024-02-23T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Patient presents with morning headaches. Recommend lifestyle modifications.",
+    "created_at": "2024-02-23T01:00:00"
+  },
+  {
+    "note_id": "6ce27b64-eda5-4d72-870c-c9aea158fc90",
+    "patient_id": "342adfd6-f368-4e26-b7b0-e9205f08a648",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "d438746d-9d27-4843-bc0f-962f88ff136d",
+    "note_date": "2023-06-05T01:00:00",
+    "note_type": "progress_note",
+    "content": "Follow-up visit. Patient reports better CPAP adherence. Plan to continue current therapy.",
+    "created_at": "2023-06-05T01:00:00"
+  },
+  {
+    "note_id": "46611ab1-58e7-4668-ac01-a5086c366e82",
+    "patient_id": "e842493f-1871-4e31-baa5-663644c2447a",
+    "clinician_id": "8e5bb27f-61d8-4f00-8241-92c3326b7355",
+    "appointment_id": "a48d66be-9b53-4759-bde5-c9a987c4c1e5",
+    "note_date": "2024-04-07T01:00:00",
+    "note_type": "follow_up",
+    "content": "Follow-up visit. Patient reports ongoing fatigue. Plan to continue current therapy.",
+    "created_at": "2024-04-07T01:00:00"
+  },
+  {
+    "note_id": "e2cb90a0-c11a-41ff-acb0-f32c967e9f6a",
+    "patient_id": "c92c3c70-92af-4459-9e10-1dc409398514",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "33c9689b-8356-462b-b82c-c312a5e24723",
+    "note_date": "2024-01-06T01:00:00",
+    "note_type": "follow_up",
+    "content": "Patient presents with loud snoring. Recommend lifestyle modifications.",
+    "created_at": "2024-01-06T01:00:00"
+  },
+  {
+    "note_id": "c0cbdd74-8927-4796-bd38-45fd4cbbc909",
+    "patient_id": "d8ac604a-3e43-4f2a-8618-7ceeb4beebed",
+    "clinician_id": "9bb23af2-20f1-4449-ade8-d67076c76d89",
+    "appointment_id": "9e033f8b-7b4b-48e2-9f11-df4586788fb8",
+    "note_date": "2024-03-16T01:00:00",
+    "note_type": "assessment",
+    "content": "CPAP compliance noted. Patient has difficulty with CPAP. Next review in 8 weeks.",
+    "created_at": "2024-03-16T01:00:00"
+  },
+  {
+    "note_id": "b437c8db-e764-4aa0-a700-9be70ce031c9",
+    "patient_id": "c2ac8ea8-36b8-4aca-8eb5-904179c218da",
+    "clinician_id": "ad9781ba-8dfa-4e41-b804-6e1469f63cdc",
+    "appointment_id": "cd58902d-ba5d-41ce-9e3e-fbea522e4ecd",
+    "note_date": "2024-04-30T01:00:00",
+    "note_type": "treatment_plan",
+    "content": "Sleep study results reviewed. AHI indicates moderate sleep apnea.",
+    "created_at": "2024-04-30T01:00:00"
+  },
+  {
+    "note_id": "53bae330-c58a-4d9d-b277-d01ffdaf6b05",
+    "patient_id": "f9270d9b-cd6d-4720-81b8-2b2ac5d429dd",
+    "clinician_id": "53fb40ab-916a-402c-8f50-9d2e5023f92d",
+    "appointment_id": "db4ff0b7-e4c2-4599-9cfc-619fdeddb2ac",
+    "note_date": "2024-04-15T01:00:00",
+    "note_type": "assessment",
+    "content": "Sleep study results reviewed. AHI indicates mild sleep apnea.",
+    "created_at": "2024-04-15T01:00:00"
+  },
+  {
+    "note_id": "0d1f93e7-668c-4bae-af57-cd47a9e7771a",
+    "patient_id": "92ed7f2d-1a68-4935-bfbc-439985baf89f",
+    "clinician_id": "e4bcb9a4-fdfd-40a0-94a1-7681ea69eb41",
+    "appointment_id": "ef72c966-9f48-40e7-bccd-2e7f886c790a",
+    "note_date": "2023-12-02T01:00:00",
+    "note_type": "follow_up",
+    "content": "CPAP compliance noted. Patient reports good tolerance. Next review in 8 weeks.",
+    "created_at": "2023-12-02T01:00:00"
+  },
+  {
+    "note_id": "0ef775da-1904-467c-bbe6-6418185b83f3",
+    "patient_id": "d8ac604a-3e43-4f2a-8618-7ceeb4beebed",
+    "clinician_id": "8e5bb27f-61d8-4f00-8241-92c3326b7355",
+    "appointment_id": "bcff4d5d-93f5-4af2-a1eb-abdcd65cf7a9",
+    "note_date": "2023-09-04T01:00:00",
+    "note_type": "assessment",
+    "content": "Follow-up visit. Patient reports improvement in sleep quality. Plan to schedule follow-up.",
+    "created_at": "2023-09-04T01:00:00"
+  }
+]

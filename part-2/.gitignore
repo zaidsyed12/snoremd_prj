@@ -1,0 +1,35 @@
+# Environment & credentials
+.env
+dbt_project/profiles.yml
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# dbt
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/.dbt/
+
+# Data (raw files committed intentionally for reproducibility)
+# Uncomment to exclude:
+# data/raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

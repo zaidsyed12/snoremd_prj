@@ -1,0 +1,13 @@
+snoremd:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: account_identifier   
+      user: username
+      password: password
+      role: ACCOUNTADMIN
+      database: SNOREMD_DB
+      warehouse: SNOREMD_WH
+      schema: RAW
+      threads: 4

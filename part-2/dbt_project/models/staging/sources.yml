@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: raw
+    database: SNOREMD_DB
+    schema: RAW
+    description: "Bronze layer — raw ingested tables loaded by Python ingestion scripts."
+    tables:
+      - name: PATIENTS
+        description: "Patient demographics from CRM (CSV export)."
+      - name: APPOINTMENTS
+        description: "Appointment records from scheduling API (JSON)."
+      - name: SLEEP_STUDIES
+        description: "Sleep study results from Azure Blob CSV exports."
+      - name: CLINICIAN_NOTES
+        description: "Clinician notes from S3 JSON documents."
+      - name: BILLING
+        description: "Monthly billing data from finance Excel files."
+      - name: CLINICS
+        description: "Clinic reference data (loaded with ingestion bootstrap)."
+      - name: CLINICIANS
+        description: "Clinician reference data (loaded with ingestion bootstrap)."

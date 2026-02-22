@@ -1,0 +1,96 @@
+version: 2
+
+models:
+  - name: fct_appointments
+    description: >
+      Appointment fact table. Grain: one row per appointment.
+      Includes derived fields for completion status and 30-day follow-up compliance.
+    columns:
+      - name: appointment_sk
+        tests:
+          - not_null
+          - unique
+      - name: appointment_id
+        tests:
+          - not_null
+          - unique
+      - name: patient_sk
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_patients')
+              field: patient_sk
+      - name: clinic_sk
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_clinics')
+              field: clinic_sk
+      - name: clinician_sk
+        tests:
+          - not_null
+      - name: appointment_date
+        tests:
+          - not_null
+      - name: status
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['scheduled', 'completed', 'cancelled', 'no_show']
+      - name: is_completed
+        tests:
+          - not_null
+      - name: has_follow_up_within_30d
+        tests:
+          - not_null
+
+  - name: fct_sleep_studies
+    description: >
+      Sleep study fact table. Grain: one row per sleep study.
+      Includes AHI-based severity classification.
+    columns:
+      - name: study_sk
+        tests:
+          - not_null
+          - unique
+      - name: study_id
+        tests:
+          - not_null
+          - unique
+      - name: patient_sk
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_patients')
+              field: patient_sk
+      - name: clinic_sk
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_clinics')
+              field: clinic_sk
+      - name: severity_category
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['normal', 'mild', 'moderate', 'severe', 'unknown']
+
+  - name: mart_clinic_monthly_metrics
+    description: >
+      Pre-aggregated mart for the Retool dashboard.
+      Grain: one row per clinic per calendar month.
+      Powers KPI tiles, trend charts, and follow-up compliance reporting.
+    columns:
+      - name: clinic_sk
+        tests:
+          - not_null
+      - name: clinic_id
+        tests:
+          - not_null
+      - name: month_date
+        tests:
+          - not_null
+      - name: study_completion_rate
+        description: "Ratio of completed to total sleep studies. NULL if no studies."
+      - name: followup_compliance_rate
+        description: "Ratio of patients with follow-up within 30 days to those needing one."

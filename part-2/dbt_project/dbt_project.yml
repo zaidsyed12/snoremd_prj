@@ -1,0 +1,24 @@
+name: snoremd
+version: '1.0.0'
+config-version: 2
+
+profile: snoremd
+
+model-paths: ["models"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  snoremd:
+    staging:
+      +materialized: view
+      +schema: STAGING
+    dimensions:
+      +materialized: table
+      +schema: ANALYTICS
+    facts:
+      +materialized: table
+      +schema: ANALYTICS
